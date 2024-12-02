@@ -1,0 +1,982 @@
+mcc,edited_description,hu_edited_description
+742,Veterinary Services,Állatorvosi szolgáltatások
+763,Agricultural Co-operatives,Mezőgazdasági szövetkezetek
+780,"Horticultural Services, Landscaping Services","Kertészeti szolgáltatások, kertépítészeti szolgáltatások"
+1520,General Contractors-Residential and Commercial,Általános vállalkozók - Lakossági és kereskedelmi
+1711,"Air Conditioning Contractors – Sales and Installation, Heating Contractors – Sales, Service, Installation","Légkondicionálási vállalkozók - értékesítés és telepítés, Fűtési vállalkozók - értékesítés, szerviz, telepítés"
+1731,Electrical Contractors,Elektromos vállalkozók
+1740,"Insulation – Contractors, Masonry, Stonework Contractors, Plastering Contractors, Stonework and Masonry Contractors, Tile Settings Contractors","Szigetelés - vállalkozók, Kőművesek, kőművesek, Vakolással foglalkozó vállalkozók, kőművesek és kőművesek, csempeszereléssel foglalkozó vállalkozók, csempebeállítással foglalkozó vállalkozók"
+1750,Carpentry Contractors,Ácsipari vállalkozók
+1761,"Roofing – Contractors, Sheet Metal Work – Contractors, Siding – Contractors","Tetőfedés - Vállalkozók, Lemezkészítés - Vállalkozók, Burkolat - Vállalkozók"
+1771,Contractors – Concrete Work,Vállalkozók - betonozás
+1799,"Contractors – Special Trade, Not Elsewhere Classified",Vállalkozók - máshová nem sorolt speciális szakmák
+2741,Miscellaneous Publishing and Printing,Egyéb Kiadói és nyomdai tevékenység
+2791,"Typesetting, Plate Making, & Related Services","Szedés, lemezkészítés és kapcsolódó szolgáltatások"
+2842,"Specialty Cleaning, Polishing, and Sanitation Preparations","Speciális tisztító, polírozó és higiéniai készítmények"
+3000,UNITED AIRLINES,EGYESÜLT LÉGITÁRSASÁGOK
+3001,AMERICAN AIRLINES,AMERIKAI LÉGITÁRSASÁGOK
+3002,PAN AMERICAN,PAN AMERICAN
+3003,Airlines,Légitársaságok
+3004,TRANS WORLD AIRLINES,TRANS WORLD AIRLINES
+3005,BRITISH AIRWAYS,BRITISH AIRWAYS
+3006,JAPAN AIRLINES,JAPAN AIRLINES
+3007,AIR FRANCE,AIR FRANCE
+3008,LUFTHANSA,AIR TAP
+3009,AIR CANADA,AIR CANADA
+3010,KLM (ROYAL DUTCH AIRLINES),KLM (KIRÁLYI HOLLAND LÉGITÁRSASÁG)
+3011,AEORFLOT,AEORFLOT
+3012,QANTAS,QANTAS
+3013,ALITALIA,ALITALIA
+3014,SAUDIA ARABIAN AIRLINES,SAUDIA ARAB LÉGITÁRSASÁG
+3015,SWISSAIR,SWISSAIR
+3016,SAS,SAS
+3017,SOUTH AFRICAN AIRWAYS,DÉL-AFRIKAI LÉGITÁRSASÁG
+3018,VARIG (BRAZIL),VARIG (BRAZÍLIA)
+3019,Airlines,Légitársaságok
+3020,AIR-INDIA,AIR-INDIA
+3021,AIR ALGERIE,AIR ALGERIA
+3022,PHILIPPINE AIRLINES,FÜLÖP-SZIGETEKI LÉGITÁRSASÁGOK
+3023,MEXICANA,MEXICANA
+3024,PAKISTAN INTERNATIONAL,PAKISZTÁN NEMZETKÖZI
+3025,AIR NEW ZEALAND,AIR ÚJ-ZÉLAND
+3026,Airlines,Légitársaságok
+3027,UTA/INTERAIR,UTA/INTERAIR
+3028,AIR MALTA,AIR MALTA
+3029,SABENA,SABENA
+3030,AEROLINEAS ARGENTINAS,AEROLINEAS ARGENTINAS
+3031,OLYMPIC AIRWAYS,OLIMPIAI LÉGITÁRSASÁG
+3032,EL AL,AZ AL
+3033,ANSETT AIRLINES,ANSETT LÉGITÁRSASÁGOK
+3034,AUSTRAINLIAN AIRLINES,AUSTRAINLIAN AIRLINES
+3035,TAP (PORTUGAL),TAP (PORTUGÁLIA)
+3036,VASP (BRAZIL),VASP (BRAZÍLIA)
+3037,EGYPTAIR,EGYPTAIR
+3038,KUWAIT AIRLINES,KUVAITI LÉGITÁRSASÁGOK
+3039,AVIANCA,AVIANCA
+3040,GULF AIR (BAHRAIN),GULF AIR (BAHREIN)
+3041,BALKAN-BULGARIAN AIRLINES,BALKÁN-BOLGÁR LÉGITÁRSASÁGOK
+3042,FINNAIR,FINNAIR
+3043,AER LINGUS,AER LINGUS
+3044,AIR LANKA,LANKA VÍZ
+3045,NIGERIA AIRWAYS,NIGERIA AIRWAYS
+3046,CRUZEIRO DO SUL (BRAZIJ),CRUZEIRO DO SUL (BRAZIJ)
+3047,THY (TURKEY),THY (TÖRÖKORSZÁG)
+3048,ROYAL AIR MAROC,ROYAL AIR MAROC
+3049,TUNIS AIR,TUNIS AIR
+3050,ICELANDAIR,ICELANDAIR
+3051,AUSTRIAN AIRLINES,OSZTRÁK LÉGITÁRSASÁGOK
+3052,LANCHILE,LANCHILE
+3053,AVIACO (SPAIN),AVIACO (SPANYOLORSZÁG)
+3054,LADECO (CHILE),LADECO (CHILE)
+3055,LAB (BOLIVIA),LAB (BOLÍVIA)
+3056,QUEBECAIRE,QUEBECAIRE
+3057,EASTWEST AIRLINES (AUSTRALIA),EASTWEST AIRLINES (AUSZTRÁLIA)
+3058,DELTA,DELTA
+3059,Airlines,Légitársaságok
+3060,NORTHWEST,NORTHWEST
+3061,CONTINENTAL,CONTINENTAL
+3062,WESTERN,WESTERN
+3063,US AIR,US AIR
+3064,Airlines,Légitársaságok
+3065,AIRINTER,AIRINTER
+3066,SOUTHWEST,DÉLNYUGAT
+3067,Airlines,Légitársaságok
+3068,Airlines,Légitársaságok
+3069,SUN COUNTRY AIRLINES,SUN COUNTRY AIRLINES
+3070,Airlines,Légitársaságok
+3071,AIR BRITISH COLUBIA,AIR BRITISH COLUBIA
+3072,Airlines,Légitársaságok
+3073,Airlines,Légitársaságok
+3074,Airlines,Légitársaságok
+3075,SINGAPORE AIRLINES,SZINGAPÚRI LÉGITÁRSASÁGOK
+3076,AEROMEXICO,AEROMEXICO
+3077,THAI AIRWAYS,THAI AIRWAYS
+3078,CHINA AIRLINES,CHINA AIRLINES
+3079,Airlines,Légitársaságok
+3080,Airlines,Légitársaságok
+3081,NORDAIR,NORDAIR
+3082,KOREAN AIRLINES,KOREAI LÉGITÁRSASÁGOK
+3083,AIR AFRIGUE,AIR AFRIGUE
+3084,EVA AIRLINES,EVA AIRLINES
+3085,"MIDWEST EXPRESS AIRLINES, INC.","MIDWEST EXPRESS AIRLINES, INC."
+3086,Airlines,Légitársaságok
+3087,METRO AIRLINES,METRO AIRLINES
+3088,CROATIA AIRLINES,HORVÁT LÉGITÁRSASÁGOK
+3089,TRANSAERO,TRANSAERO
+3090,Airlines,Légitársaságok
+3091,Airlines,Légitársaságok
+3092,Airlines,Légitársaságok
+3093,Airlines,Légitársaságok
+3094,ZAMBIA AIRWAYS,ZAMBIA AIRWAYS
+3095,Airlines,Légitársaságok
+3096,AIR ZIMBABWE,AIR ZIMBABWE
+3097,Airlines,Légitársaságok
+3098,Airlines,Légitársaságok
+3099,CATHAY PACIFIC,CATHAY PACIFIC
+3100,MALAYSIAN AIRLINE SYSTEM,MALAJZIAI LÉGITÁRSASÁGI RENDSZER
+3101,Airlines,Légitársaságok
+3102,IBERIA,IBERIA
+3103,GARUDA (INDONESIA),GARUDA (INDONÉZIA)
+3104,Airlines,Légitársaságok
+3105,Airlines,Légitársaságok
+3106,BRAATHENS S.A.F.E. (NORWAY),BRAATHENS S.A.F.F.E. (NORVÉGIA)
+3107,Airlines,Légitársaságok
+3108,Airlines,Légitársaságok
+3109,Airlines,Légitársaságok
+3110,WINGS AIRWAYS,WINGS AIRWAYS
+3111,BRITISH MIDLAND,BRITISH MIDLAND
+3112,WINDWARD ISLAND,SZÉLVÉDETT SZIGET
+3113,Airlines,Légitársaságok
+3114,Airlines,Légitársaságok
+3115,Airlines,Légitársaságok
+3116,Airlines,Légitársaságok
+3117,VIASA,VIASA
+3118,VALLEY AIRLINES,VÖLGYI LÉGITÁRSASÁGOK
+3119,Airlines,Légitársaságok
+3120,Airlines,Légitársaságok
+3121,Airlines,Légitársaságok
+3122,Airlines,Légitársaságok
+3123,Airlines,Légitársaságok
+3124,Airlines,Légitársaságok
+3125,TAN,TAN
+3126,TALAIR,TALAIR
+3127,TACA INTERNATIONAL,TACA INTERNATIONAL
+3128,Airlines,Légitársaságok
+3129,SURINAM AIRWAYS,SURINAMI LÉGITÁRSASÁG
+3130,SUN WORLD INTERNATIONAL,SUN WORLD INTERNATIONAL
+3131,Airlines,Légitársaságok
+3132,Airlines,Légitársaságok
+3133,SUNBELT AIRLINES,SUNBELT LÉGITÁRSASÁGOK
+3134,Airlines,Légitársaságok
+3135,SUDAN AIRWAYS,SUDAN AIRWAYS
+3136,Airlines,Légitársaságok
+3137,SINGLETON,SINGLETON
+3138,SIMMONS AIRLINES,SIMMONS AIRLINES
+3139,Airlines,Légitársaságok
+3140,Airlines,Légitársaságok
+3141,Airlines,Légitársaságok
+3142,Airlines,Légitársaságok
+3143,SCENIC AIRLINES,SCENIC AIRLINES
+3144,VIRGIN ATLANTIC,SZŰZ ATLANTI-ÓCEÁN
+3145,SAN JUAN AIRLINES,SAN JUAN LÉGITÁRSASÁGOK
+3146,LUXAIR,LUXAIR
+3147,Airlines,Légitársaságok
+3148,Airlines,Légitársaságok
+3149,Airlines,Légitársaságok
+3150,Airlines,Légitársaságok
+3151,AIR ZAIRE,AIR ZAIRE
+3152,Airlines,Légitársaságok
+3153,Airlines,Légitársaságok
+3154,PRINCEVILLE,PRINCEVILLE
+3155,Airlines,Légitársaságok
+3156,Airlines,Légitársaságok
+3157,Airlines,Légitársaságok
+3158,Airlines,Légitársaságok
+3159,PBA,PBA
+3160,Airlines,Légitársaságok
+3161,ALL NIPPON AIRWAYS,MINDEN NIPPON AIRWAYS
+3162,Airlines,Légitársaságok
+3163,Airlines,Légitársaságok
+3164,NORONTAIR,NORONTAIR
+3165,NEW YORK HELICOPTER,NEW YORKI HELIKOPTER
+3166,Airlines,Légitársaságok
+3167,Airlines,Légitársaságok
+3168,Airlines,Légitársaságok
+3169,Airlines,Légitársaságok
+3170,NOUNT COOK,NOUNT COOK
+3171,CANADIAN AIRLINES INTERNATIONAL,KANADAI NEMZETKÖZI LÉGITÁRSASÁGOK
+3172,NATIONAIR,NATIONAIR
+3173,Airlines,Légitársaságok
+3174,Airlines,Légitársaságok
+3175,Airlines,Légitársaságok
+3176,METROFLIGHT AIRLINES,METROFLIGHT LÉGITÁRSASÁGOK
+3177,Airlines,Légitársaságok
+3178,MESA AIR,AIR TABLE
+3179,Airlines,Légitársaságok
+3180,Airlines,Légitársaságok
+3181,MALEV,MALEV
+3182,LOT (POLAND),LOT (LENGYELORSZÁG)
+3183,Airlines,Légitársaságok
+3184,LIAT,LIAT
+3185,LAV (VENEZUELA),LAV (VENEZUELA)
+3186,LAP (PARAGUAY),LAP (PARAGUAY)
+3187,LACSA (COSTA RICA),LACSA (COSTA RICA)
+3188,Airlines,Légitársaságok
+3189,Airlines,Légitársaságok
+3190,JUGOSLAV AIR,JUGOSLAV AIR
+3191,ISLAND AIRLINES,SZIGETI LÉGITÁRSASÁGOK
+3192,IRAN AIR,IRAN AIR
+3193,INDIAN AIRLINES,INDIAI LÉGITÁRSASÁGOK
+3194,Airlines,Légitársaságok
+3195,Airlines,Légitársaságok
+3196,HAWAIIAN AIR,HAWAIIAN VÍZ
+3197,HAVASU AIRLINES,HAVASU LÉGITÁRSASÁGOK
+3198,Airlines,Légitársaságok
+3199,Airlines,Légitársaságok
+3200,FUYANA AIRWAYS,FUYANA AIRWAYS
+3201,Airlines,Légitársaságok
+3202,Airlines,Légitársaságok
+3203,GOLDEN PACIFIC AIR,GOLDEN PACIFIC AIR
+3204,FREEDOM AIR,FREEDOM AIR
+3205,Airlines,Légitársaságok
+3206,Airlines,Légitársaságok
+3207,Airlines,Légitársaságok
+3208,Airlines,Légitársaságok
+3209,Airlines,Légitársaságok
+3210,Airlines,Légitársaságok
+3211,Airlines,Légitársaságok
+3212,DOMINICANA,DOMINICANA
+3213,Airlines,Légitársaságok
+3214,Airlines,Légitársaságok
+3215,DAN AIR SERVICES,DAN AIR SERVICES
+3216,CUMBERLAND AIRLINES,CUMBERLANDI LÉGITÁRSASÁGOK
+3217,CSA,CSA
+3218,CROWN AIR,CROWN AIR
+3219,COPA,COPA
+3220,COMPANIA FAUCETT,COMPANIA FAUCETT
+3221,TRANSPORTES AEROS MILITARES ECCUATORANOS,ECUADORI KATONAI ŰRSZÁLLÍTÓ REPÜLŐGÉPEK
+3222,COMMAND AIRWAYS,PARANCSNOKI LÉGUTAK
+3223,COMAIR,COMAIR
+3224,Airlines,Légitársaságok
+3225,Airlines,Légitársaságok
+3226,Airlines,Légitársaságok
+3227,Airlines,Légitársaságok
+3228,CAYMAN AIRWAYS,CAYMAN AIRWAYS
+3229,SAETA SOCIAEDAD ECUATORIANOS DE TRANSPORTES AEREOS,SAETA SOCIA SOCIEDAD ECUATORIANOS DE TRANSPORTES AEREOS
+3230,Airlines,Légitársaságok
+3231,SASHA SERVICIO AERO DE HONDURAS,SASHA HONDURAS AERO SERVICE
+3232,Airlines,Légitársaságok
+3233,CAPITOL AIR,CAPITOL AIR
+3234,BWIA,BWIA
+3235,BROKWAY AIR,BROKWAY AIR
+3236,Airlines,Légitársaságok
+3237,Airlines,Légitársaságok
+3238,BEMIDJI AIRLINES,BEMIDJI LÉGITÁRSASÁGOK
+3239,BAR HARBOR AIRLINES,BAR HARBOR AIRLINES
+3240,BAHAMASAIR,BAHAMASAIR
+3241,AVIATECA (GUATEMALA),AVIATECA (GUATEMALA)
+3242,AVENSA,AVENSA
+3243,AUSTRIAN AIR SERVICE,OSZTRÁK LÉGI JÁRAT
+3244,Airlines,Légitársaságok
+3245,Airlines,Légitársaságok
+3246,Airlines,Légitársaságok
+3247,Airlines,Légitársaságok
+3248,Airlines,Légitársaságok
+3249,Airlines,Légitársaságok
+3250,Airlines,Légitársaságok
+3251,ALOHA AIRLINES,ALOHA AIRLINES
+3252,ALM,ALM
+3253,AMERICA WEST,AMERIKA NYUGAT
+3254,TRUMP AIRLINE,TRUMP AIRLINE
+3255,Airlines,Légitársaságok
+3256,ALASKA AIRLINES,ALASZKAI LÉGITÁRSASÁGOK
+3257,Airlines,Légitársaságok
+3258,Airlines,Légitársaságok
+3259,AMERICAN TRANS AIR,AMERICAN TRANS AIR
+3260,Airlines,Légitársaságok
+3261,AIR CHINA,AIR CHINA
+3262,"RENO AIR, INC.","RENO AIR, INC."
+3263,Airlines,Légitársaságok
+3264,Airlines,Légitársaságok
+3265,Airlines,Légitársaságok
+3266,AIR SEYCHELLES,AIR SEYCHELLES
+3267,AIR PANAMA,PANAMA VÍZ
+3268,Airlines,Légitársaságok
+3269,Airlines,Légitársaságok
+3270,Airlines,Légitársaságok
+3271,Airlines,Légitársaságok
+3272,Airlines,Légitársaságok
+3273,Airlines,Légitársaságok
+3274,Airlines,Légitársaságok
+3275,Airlines,Légitársaságok
+3276,Airlines,Légitársaságok
+3277,Airlines,Légitársaságok
+3278,Airlines,Légitársaságok
+3279,Airlines,Légitársaságok
+3280,AIR JAMAICA,AIR JAMAICA
+3281,Airlines,Légitársaságok
+3282,AIR DJIBOUTI,AIR DJIBOUTI
+3283,Airlines,Légitársaságok
+3284,AERO VIRGIN ISLANDS,AERO SZŰZ SZIGETEK
+3285,AERO PERU,AERO PERU
+3286,AEROLINEAS NICARAGUENSIS,AEROLINEAS NICARAGUENSIS
+3287,AERO COACH AVAIATION,AERO COACH AVAIATION
+3288,Airlines,Légitársaságok
+3289,Airlines,Légitársaságok
+3290,Airlines,Légitársaságok
+3291,ARIANA AFGHAN,ARIANA AFGHAN
+3292,CYPRUS AIRWAYS,CYPRUS AIRWAYS
+3293,ECUATORIANA,ECUATORIANA
+3294,ETHIOPIAN AIRLINES,ETIÓP LÉGITÁRSASÁGOK
+3295,KENYA AIRLINES,KENYA AIRLINES
+3296,Airlines,Légitársaságok
+3297,Airlines,Légitársaságok
+3298,AIR MAURITIUS,AIR MAURITIUS
+3299,WIDERO’S FLYVESELSKAP,WIDERO LÉGITÁRSASÁGA
+3351,AFFILIATED AUTO RENTAL,KAPCSOLT AUTÓKÖLCSÖNZŐ
+3352,AMERICAN INTL RENT-A-CAR,AMERICAN INTL RENT-A-CAR
+3353,BROOKS RENT-A-CAR,BROOKS RENT-A-CAR
+3354,ACTION AUTO RENTAL,AKCIÓ AUTÓKÖLCSÖNZŐ
+3355,Car Rental,Autóbérlés
+3356,Car Rental,Autóbérlés
+3357,HERTZ RENT-A-CAR,HERTZ AUTÓKÖLCSÖNZŐ
+3358,Car Rental,Autóbérlés
+3359,PAYLESS CAR RENTAL,PAYLESS AUTÓKÖLCSÖNZŐ
+3360,SNAPPY CAR RENTAL,SNAPPY AUTÓKÖLCSÖNZŐ
+3361,AIRWAYS RENT-A-CAR,AIRWAYS RENT-A-CAR
+3362,ALTRA AUTO RENTAL,EGYÉB AUTÓBÉRLÉS
+3363,Car Rental,Autóbérlés
+3364,AGENCY RENT-A-CAR,ÜGYNÖKSÉGI AUTÓKÖLCSÖNZŐ
+3365,Car Rental,Autóbérlés
+3366,BUDGET RENT-A-CAR,BUDGET AUTÓKÖLCSÖNZŐ
+3367,Car Rental,Autóbérlés
+3368,HOLIDAY RENT-A-WRECK,ÜDÜLÉSI BÉRLETI DÍJ EGY RONCS
+3369,Car Rental,Autóbérlés
+3370,RENT-A-WRECK,RENT-A-WRECK
+3371,Car Rental,Autóbérlés
+3372,Car Rental,Autóbérlés
+3373,Car Rental,Autóbérlés
+3374,Car Rental,Autóbérlés
+3375,Car Rental,Autóbérlés
+3376,AJAX RENT-A-CAR,AJAX RENT-A-CAR
+3377,Car Rental,Autóbérlés
+3378,Car Rental,Autóbérlés
+3379,Car Rental,Autóbérlés
+3380,Car Rental,Autóbérlés
+3381,EUROP CAR,EUROP CAR
+3382,Car Rental,Autóbérlés
+3383,Car Rental,Autóbérlés
+3384,Car Rental,Autóbérlés
+3385,TROPICAL RENT-A-CAR,TRÓPUSI AUTÓKÖLCSÖNZŐ
+3386,SHOWCASE RENTAL CARS,PÉLDAÉRTÉKŰ BÉRAUTÓK
+3387,ALAMO RENT-A-CAR,ALAMO AUTÓKÖLCSÖNZŐ
+3388,Car Rental,Autóbérlés
+3389,AVIS RENT-A-CAR,AVIS RENT-A-CAR
+3390,DOLLAR RENT-A-CAR,DOLLÁR AUTÓKÖLCSÖNZŐ
+3391,EUROPE BY CAR,EURÓPA AUTÓVAL
+3392,Car Rental,Autóbérlés
+3393,NATIONAL CAR RENTAL,NEMZETI AUTÓKÖLCSÖNZŐ
+3394,KEMWELL GROUP RENT-A-CAR,KEMWELL GROUP RENT-A-CAR
+3395,THRIFTY RENT-A-CAR,TAKARÉKOS AUTÓKÖLCSÖNZŐ
+3396,TILDEN TENT-A-CAR,TILDENI SÁTORAUTÓ
+3397,Car Rental,Autóbérlés
+3398,ECONO-CAR RENT-A-CAR,ECONO-CAR AUTÓKÖLCSÖNZŐ
+3399,Car Rental,Autóbérlés
+3400,AUTO HOST COST CAR RENTALS,AUTO HOST KÖLTSÉG AUTÓBÉRLÉS
+3401,Car Rental,Autóbérlés
+3402,Car Rental,Autóbérlés
+3403,Car Rental,Autóbérlés
+3404,Car Rental,Autóbérlés
+3405,ENTERPRISE RENT-A-CAR,ENTERPRISE RENT-A-CAR
+3406,Car Rental,Autóbérlés
+3407,Car Rental,Autóbérlés
+3408,Car Rental,Autóbérlés
+3409,GENERAL RENT-A-CAR,ÁLTALÁNOS AUTÓBÉRLÉS
+3410,Car Rental,Autóbérlés
+3411,Car Rental,Autóbérlés
+3412,A-1 RENT-A-CAR,A-1 RENT-A-CAR
+3413,Car Rental,Autóbérlés
+3414,GODFREY NATL RENT-A-CAR,GODFREY NATL RENT-A-CAR
+3415,Car Rental,Autóbérlés
+3416,Car Rental,Autóbérlés
+3417,Car Rental,Autóbérlés
+3418,Car Rental,Autóbérlés
+3419,ALPHA RENT-A-CAR,ALPHA RENT-A-CAR
+3420,ANSA INTL RENT-A-CAR,ANSA INTL RENT-A-CAR
+3421,ALLSTAE RENT-A-CAR,ALLSTAE RENT-A-CAR
+3422,Car Rental,Autóbérlés
+3423,AVCAR RENT-A-CAR,AVCAR AUTÓKÖLCSÖNZŐ
+3424,Car Rental,Autóbérlés
+3425,AUTOMATE RENT-A-CAR,AUTOMATIZÁLJA AZ AUTÓBÉRLÉST
+3426,Car Rental,Autóbérlés
+3427,AVON RENT-A-CAR,AVON AUTÓKÖLCSÖNZŐ
+3428,CAREY RENT-A-CAR,CAREY RENT-A-CAR
+3429,INSURANCE RENT-A-CAR,BIZTOSÍTÁS AUTÓBÉRLÉS
+3430,MAJOR RENT-A-CAR,NAGY AUTÓKÖLCSÖNZŐ
+3431,REPLACEMENT RENT-A-CAR,CSEREAUTÓ-BÉRLÉS
+3432,RESERVE RENT-A-CAR,AUTÓKÖLCSÖNZÉS FOGLALÁSA
+3433,UGLY DUCKLING RENT-A-CAR,CSÚNYA KISKACSA AUTÓKÖLCSÖNZŐ
+3434,USA RENT-A-CAR,USA RENT-A-CAR
+3435,VALUE RENT-A-CAR,VALUE RENT-A-CAR
+3436,AUTOHANSA RENT-A-CAR,CAR-HANSA RENT-A-CAR
+3437,CITE RENT-A-CAR,CITE RENT-A-CAR
+3438,INTERENT RENT-A-CAR,INTERENT RENT-A-CAR
+3439,MILLEVILLE RENT-A-CAR,MILLEVILLE RENT-A-CAR
+3440,VIA ROUTE RENT-A-CAR,VIA ROUTE RENT-A-CAR
+3441,Car Rental,Autóbérlés
+3501,"HOLIDAY INNS, HOLIDAY INN EXPRESS","ÜDÜLŐSZÁLLÓK, HOLIDAY INN EXPRESS"
+3502,BEST WESTERN HOTELS,BEST WESTERN SZÁLLODÁK
+3503,SHERATON HOTELS,SHERATON SZÁLLODÁK
+3504,HILTON HOTELS,HILTON HOTELEK
+3505,FORTE HOTELS,FORTE HOTELEK
+3506,GOLDEN TULIP HOTELS,GOLDEN TULIP HOTELEK
+3507,FRIENDSHIP INNS,BARÁTSÁG VENDÉGLŐK
+3508,"QUALITY INNS, QUALITY SUITES","MINŐSÉGI SZÁLLÓK, MINŐSÉGI LAKOSZTÁLYOK"
+3509,MARRIOTT HOTELS,MARRIOTT SZÁLLODÁK
+3510,"DAYS INN, DAYSTOP","DAYS INN, DAYSTOP"
+3511,ARABELLA HOTELS,ARABELLA SZÁLLODÁK
+3512,INTER-CONTINENTAL HOTELS,INTERKONTINENTÁLIS SZÁLLODÁK
+3513,WESTIN HOTELS,WESTIN HOTELEK
+3514,Hotels/Motels/Inns/Resorts,Szállodák/szállodák/szállók/üdülőhelyek
+3515,RODEWAY INNS,RODEWAY INNS
+3516,LA QUINTA MOTOR INNS,LA QUINTA MOTOR INNS
+3517,AMERICANA HOTELS,AMERICANA SZÁLLODÁK
+3518,SOL HOTELS,SOL HOTELEK
+3519,PULLMAN INTERNATIONAL HOTELS,PULLMAN NEMZETKÖZI SZÁLLODÁK
+3520,MERIDIEN HOTELS,MERIDIEN SZÁLLODÁK
+3521,CREST HOTELS (see FORTE HOTELS),CREST HOTELS (lásd FORTE HOTELS)
+3522,TOKYO HOTEL,TOKYO HOTEL
+3523,PENNSULA HOTEL,PENNSULA HOTEL
+3524,WELCOMGROUP HOTELS,WELCOMGROUP SZÁLLODÁK
+3525,DUNFEY HOTELS,DUNFEY HOTELEK
+3526,Hotels/Motels/Inns/Resorts,Szállodák/szállodák/szállók/üdülőhelyek
+3527,DOWNTOWNER-PASSPORT HOTEL,DOWNTOWNER-PASSPORT HOTEL
+3528,"RED LION HOTELS, RED LION INNS","RED LION HOTELEK, RED LION SZÁLLÁSOK"
+3529,CP HOTELS,CP HOTELEK
+3530,"RENAISSANCE HOTELS, STOUFFER HOTELS","RENESZÁNSZ SZÁLLODÁK, STOUFFER SZÁLLODÁK"
+3531,ASTIR HOTELS,ASTIR HOTELEK
+3532,SUN ROUTE HOTELS,SUN ROUTE SZÁLLODÁK
+3533,HOTEL IBIS,HOTEL IBIS
+3534,SOUTHERN PACIFIC HOTELS,DÉL-CSENDES-ÓCEÁNI SZÁLLODÁK
+3535,HILTON INTERNATIONAL,HILTON INTERNATIONAL
+3536,AMFAC HOTELS,AMFAC HOTELEK
+3537,ANA HOTEL,ANA HOTEL
+3538,CONCORDE HOTELS,CONCORDE SZÁLLODÁK
+3539,Hotels/Motels/Inns/Resorts,Szállodák/szállodák/szállók/üdülőhelyek
+3540,IBEROTEL HOTELS,IBEROTEL SZÁLLODÁK
+3541,HOTEL OKURA,HOTEL OKURA
+3542,ROYAL HOTELS,ROYAL HOTELEK
+3543,FOUR SEASONS HOTELS,NÉGY ÉVSZAKOS SZÁLLODÁK
+3544,CIGA HOTELS,CIGA HOTELEK
+3545,SHANGRI-LA INTERNATIONAL,SHANGRI-LA NEMZETKÖZI
+3546,Hotels/Motels/Inns/Resorts,Szállodák/szállodák/szállók/üdülőhelyek
+3547,Hotels/Motels/Inns/Resorts,Szállodák/szállodák/szállók/üdülőhelyek
+3548,HOTELES MELIA,HOTELES MELIA
+3549,AUBERGE DES GOVERNEURS,AUBERGE DES GOVERNEURS
+3550,REGAL 8 INNS,REGAL 8 INNS
+3551,Hotels/Motels/Inns/Resorts,Szállodák/szállodák/szállók/üdülőhelyek
+3552,COAST HOTELS,COAST HOTELEK
+3553,PARK INNS INTERNATIONAL,PARK INNS INTERNATIONAL
+3554,Hotels/Motels/Inns/Resorts,Szállodák/szállodák/szállók/üdülőhelyek
+3555,Hotels/Motels/Inns/Resorts,Szállodák/szállodák/szállók/üdülőhelyek
+3556,Hotels/Motels/Inns/Resorts,Szállodák/szállodák/szállók/üdülőhelyek
+3557,Hotels/Motels/Inns/Resorts,Szállodák/szállodák/szállók/üdülőhelyek
+3558,JOLLY HOTELS,JOLLY HOTELS
+3559,Hotels/Motels/Inns/Resorts,Szállodák/szállodák/szállók/üdülőhelyek
+3560,Hotels/Motels/Inns/Resorts,Szállodák/szállodák/szállók/üdülőhelyek
+3561,Hotels/Motels/Inns/Resorts,Szállodák/szállodák/szállók/üdülőhelyek
+3562,COMFORT INNS,KÉNYELMES INNS
+3563,JOURNEY’S END MOTLS,UTAZÁS VÉGE MOTYÓK
+3564,Hotels/Motels/Inns/Resorts,Szállodák/szállodák/szállók/üdülőhelyek
+3565,RELAX INNS,RELAX INNS
+3566,Hotels/Motels/Inns/Resorts,Szállodák/szállodák/szállók/üdülőhelyek
+3567,Hotels/Motels/Inns/Resorts,Szállodák/szállodák/szállók/üdülőhelyek
+3568,LADBROKE HOTELS,LADBROKE HOTELEK
+3569,Hotels/Motels/Inns/Resorts,Szállodák/szállodák/szállók/üdülőhelyek
+3570,FORUM HOTELS,FORUM HOTELEK
+3571,Hotels/Motels/Inns/Resorts,Szállodák/szállodák/szállók/üdülőhelyek
+3572,MIYAKO HOTELS,MIYAKO HOTELEK
+3573,SANDMAN HOTELS,SANDMAN HOTELEK
+3574,VENTURE INNS,VENTURE INNS
+3575,VAGABOND HOTELS,CSAVARGÓ SZÁLLODÁK
+3576,Hotels/Motels/Inns/Resorts,Szállodák/szállodák/szállók/üdülőhelyek
+3577,MANDARIN ORIENTAL HOTEL,MANDARIN ORIENTAL HOTEL
+3578,Hotels/Motels/Inns/Resorts,Szállodák/szállodák/szállók/üdülőhelyek
+3579,HOTEL MERCURE,MERCURE HOTEL
+3580,Hotels/Motels/Inns/Resorts,Szállodák/szállodák/szállók/üdülőhelyek
+3581,DELTA HOTEL,DELTA HOTEL
+3582,Hotels/Motels/Inns/Resorts,Szállodák/szállodák/szállók/üdülőhelyek
+3583,SAS HOTELS,SAS HOTELEK
+3584,PRINCESS HOTELS INTERNATIONAL,PRINCESS HOTELS INTERNATIONAL
+3585,HUNGAR HOTELS,HUNGAR HOTELEK
+3586,SOKOS HOTELS,SOKOS HOTELS
+3587,DORAL HOTELS,DORAL HOTELEK
+3588,HELMSLEY HOTELS,HELMSLEY SZÁLLODÁK
+3589,Hotels/Motels/Inns/Resorts,Szállodák/szállodák/szállók/üdülőhelyek
+3590,FAIRMONT HOTELS,FAIRMONT SZÁLLODÁK
+3591,SONESTA HOTELS,SONESTA HOTELEK
+3592,OMNI HOTELS,OMNI HOTELS
+3593,CUNARD HOTELS,CUNARD HOTELEK
+3594,Hotels/Motels/Inns/Resorts,Szállodák/szállodák/szállók/üdülőhelyek
+3595,HOSPITALITY INTERNATIONAL,HOSPITALITY INTERNATIONAL
+3596,Hotels/Motels/Inns/Resorts,Szállodák/szállodák/szállók/üdülőhelyek
+3597,Hotels/Motels/Inns/Resorts,Szállodák/szállodák/szállók/üdülőhelyek
+3598,REGENT INTERNATIONAL HOTELS,REGENT NEMZETKÖZI SZÁLLODÁK
+3599,PANNONIA HOTELS,PANNÓNIAI SZÁLLODÁK
+3600,Hotels/Motels/Inns/Resorts,Szállodák/szállodák/szállók/üdülőhelyek
+3601,Hotels/Motels/Inns/Resorts,Szállodák/szállodák/szállók/üdülőhelyek
+3602,Hotels/Motels/Inns/Resorts,Szállodák/szállodák/szállók/üdülőhelyek
+3603,NOAH’S HOTELS,NOAH HOTELEK
+3604,Hotels/Motels/Inns/Resorts,Szállodák/szállodák/szállók/üdülőhelyek
+3605,Hotels/Motels/Inns/Resorts,Szállodák/szállodák/szállók/üdülőhelyek
+3606,Hotels/Motels/Inns/Resorts,Szállodák/szállodák/szállók/üdülőhelyek
+3607,Hotels/Motels/Inns/Resorts,Szállodák/szállodák/szállók/üdülőhelyek
+3608,Hotels/Motels/Inns/Resorts,Szállodák/szállodák/szállók/üdülőhelyek
+3609,Hotels/Motels/Inns/Resorts,Szállodák/szállodák/szállók/üdülőhelyek
+3610,Hotels/Motels/Inns/Resorts,Szállodák/szállodák/szállók/üdülőhelyek
+3611,Hotels/Motels/Inns/Resorts,Szállodák/szállodák/szállók/üdülőhelyek
+3612,MOVENPICK HOTELS,MOVENPICK SZÁLLODÁK
+3613,Hotels/Motels/Inns/Resorts,Szállodák/szállodák/szállók/üdülőhelyek
+3614,Hotels/Motels/Inns/Resorts,Szállodák/szállodák/szállók/üdülőhelyek
+3615,TRAVELODGE,TRAVELODGE
+3616,Hotels/Motels/Inns/Resorts,Szállodák/szállodák/szállók/üdülőhelyek
+3617,Hotels/Motels/Inns/Resorts,Szállodák/szállodák/szállók/üdülőhelyek
+3618,Hotels/Motels/Inns/Resorts,Szállodák/szállodák/szállók/üdülőhelyek
+3619,Hotels/Motels/Inns/Resorts,Szállodák/szállodák/szállók/üdülőhelyek
+3620,TELFORD INTERNATIONAL,TELFORD NEMZETKÖZI
+3621,Hotels/Motels/Inns/Resorts,Szállodák/szállodák/szállók/üdülőhelyek
+3622,MERLIN HOTELS,MERLIN HOTELEK
+3623,DORINT HOTELS,DORINT HOTELEK
+3624,Hotels/Motels/Inns/Resorts,Szállodák/szállodák/szállók/üdülőhelyek
+3625,HOTLE UNIVERSALE,HOTLE UNIVERSALE
+3626,PRINCE HOTELS,PRINCE HOTELEK
+3627,Hotels/Motels/Inns/Resorts,Szállodák/szállodák/szállók/üdülőhelyek
+3628,Hotels/Motels/Inns/Resorts,Szállodák/szállodák/szállók/üdülőhelyek
+3629,DAN HOTELS,AZTÁN SZÁLLODÁK
+3630,Hotels/Motels/Inns/Resorts,Szállodák/szállodák/szállók/üdülőhelyek
+3631,Hotels/Motels/Inns/Resorts,Szállodák/szállodák/szállók/üdülőhelyek
+3632,Hotels/Motels/Inns/Resorts,Szállodák/szállodák/szállók/üdülőhelyek
+3633,RANK HOTELS,RANK HOTELEK
+3634,SWISSOTEL,SWISSOTEL
+3635,RESO HOTELS,RESO HOTELEK
+3636,SAROVA HOTELS,SAROVA HOTELEK
+3637,"RAMADA INNS, RAMADA LIMITED","RAMADA INNS, RAMADA LIMITED"
+3638,"HO JO INN, HOWARD JOHNSON","HO JO INN, HOWARD JOHNSON"
+3639,MOUNT CHARLOTTE THISTLE,MOUNT CHARLOTTE GYŰSZŰVIRÁG
+3640,HYATT HOTEL,HYATT HOTEL
+3641,SOFITEL HOTELS,SOFITEL HOTELEK
+3642,NOVOTEL HOTELS,NOVOTEL HOTELEK
+3643,STEIGENBERGER HOTELS,STEIGENBERGER SZÁLLODÁK
+3644,ECONO LODGES,ECONO LODGES
+3645,QUEENS MOAT HOUSES,QUEENS ÁROK HÁZAK
+3646,SWALLOW HOTELS,SWALLOW HOTELEK
+3647,HUSA HOTELS,HUSA HOTELEK
+3648,DE VERE HOTELS,A VERE HOTELEK
+3649,RADISSON HOTELS,RADISSON SZÁLLODÁK
+3650,RED ROOK INNS,VÖRÖS ROOK INNS
+3651,IMPERIAL LONDON HOTEL,IMPERIAL LONDON HOTEL
+3652,EMBASSY HOTELS,EMBASSY HOTELEK
+3653,PENTA HOTELS,PENTA HOTELEK
+3654,LOEWS HOTELS,LOEWS HOTELEK
+3655,SCANDIC HOTELS,SCANDIC HOTELEK
+3656,SARA HOTELS,SARA HOTELEK
+3657,OBEROI HOTELS,OBEROI HOTELEK
+3658,OTANI HOTELS,OTANI HOTELEK
+3659,TAJ HOTELS INTERNATIONAL,TAJ HOTELS INTERNATIONAL
+3660,KNIGHTS INNS,KNIGHTS INNS
+3661,METROPOLE HOTELS,METROPOLISZ SZÁLLODÁK
+3662,Hotels/Motels/Inns/Resorts,Szállodák/szállodák/szállók/üdülőhelyek
+3663,HOTELES EL PRESIDENTS,EL PRESIDENTS SZÁLLODÁK
+3664,FLAG INN,FLAG INN
+3665,HAMPTON INNS,HAMPTON INNS
+3666,STAKIS HOTELS,STAKIS HOTELEK
+3667,Hotels/Motels/Inns/Resorts,Szállodák/szállodák/szállók/üdülőhelyek
+3668,MARITIM HOTELS,MARITIM HOTELEK
+3669,Hotels/Motels/Inns/Resorts,Szállodák/szállodák/szállók/üdülőhelyek
+3670,ARCARD HOTELS,ARCARD HOTELEK
+3671,ARCTIA HOTELS,ARCTIA HOTELS
+3672,CAMPANIEL HOTELS,CAMPANIEL SZÁLLODÁK
+3673,IBUSZ HOTELS,IBUSZ HOTELEK
+3674,RANTASIPI HOTELS,RANTASIPI SZÁLLODÁK
+3675,INTERHOTEL CEDOK,INTERHOTEL CEDOK
+3676,Hotels/Motels/Inns/Resorts,Szállodák/szállodák/szállók/üdülőhelyek
+3677,CLIMAT DE FRANCE HOTELS,CLIMAT DE FRANCE SZÁLLODÁK
+3678,CUMULUS HOTELS,CUMULUS HOTELEK
+3679,DANUBIUS HOTEL,DANUBIUS HOTEL
+3680,Hotels/Motels/Inns/Resorts,Szállodák/szállodák/szállók/üdülőhelyek
+3681,ADAMS MARK HOTELS,ADAMS MARK SZÁLLODÁK
+3682,ALLSTAR INNS,ALLSTAR INNS
+3683,Hotels/Motels/Inns/Resorts,Szállodák/szállodák/szállók/üdülőhelyek
+3684,BUDGET HOST INNS,OLCSÓ VENDÉGFOGADÓK
+3685,BUDGETEL HOTELS,BUDGET HOTELEK
+3686,SUISSE CHALETS,SVÁJCI FAHÁZAK
+3687,CLARION HOTELS,CLARION HOTELEK
+3688,COMPRI HOTELS,COMPRI HOTELEK
+3689,CONSORT HOTELS,CONSORT HOTELEK
+3690,COURTYARD BY MARRIOTT,COURTYARD BY MARRIOTT
+3691,DILLION INNS,DILLION INNS
+3692,DOUBLETREE HOTELS,DOUBLETREE SZÁLLODÁK
+3693,DRURY INNS,DRURY INNS
+3694,ECONOMY INNS OF AMERICA,ECONOMY INNS OF AMERICA
+3695,EMBASSY SUITES,EMBASSY SUITES
+3696,EXEL INNS,EXEL INNS
+3697,FARFIELD HOTELS,FARFIELDI SZÁLLODÁK
+3698,HARLEY HOTELS,HARLEY HOTELEK
+3699,MIDWAY MOTOR LODGE,MIDWAY MOTOR LODGE
+3700,MOTEL 6,MOTEL 6
+3701,GUEST QUARTERS (Formally PICKETT SUITE HOTELS),VENDÉGSZÁLLODÁK (hivatalosan PICKETT SUITE HOTELEK)
+3702,THE REGISTRY HOTELS,A REGISTRY HOTELEK
+3703,RESIDENCE INNS,SZÁLLÁSHELYI NÉLKÜLKÜLÖNTŐK
+3704,ROYCE HOTELS,ROYCE HOTELS
+3705,SANDMAN INNS,SANDMAN INNS
+3706,SHILO INNS,SHILO INNS
+3707,SHONEY’S INNS,SHONEY'S INNS
+3708,Hotels/Motels/Inns/Resorts,Szállodák/szállodák/szállók/üdülőhelyek
+3709,SUPER8 MOTELS,SUPER8 SZÁLLODÁK
+3710,THE RITZ CARLTON HOTELS,A RITZ CARLTON SZÁLLODÁK
+3711,FLAG INNS (AUSRALIA),FLAG INNS (AUSZTRÁLIA)
+3712,GOLDEN CHAIN HOTEL,ARANY LÁNC HOTEL
+3713,QUALITY PACIFIC HOTEL,QUALITY PACIFIC HOTEL
+3714,FOUR SEASONS HOTEL (AUSTRALIA),FOUR SEASONS HOTEL (AUSZTRÁLIA)
+3715,FARIFIELD INN,FARIFIELD INN
+3716,CARLTON HOTELS,CARLTON HOTELEK
+3717,CITY LODGE HOTELS,CITY LODGE SZÁLLODÁK
+3718,KAROS HOTELS,KAROS HOTELS
+3719,PROTEA HOTELS,PROTEA HOTELEK
+3720,SOUTHERN SUN HOTELS,SOUTHERN SUN SZÁLLODÁK
+3721,HILTON CONRAD,HILTON CONRAD
+3722,WYNDHAM HOTEL AND RESORTS,WYNDHAM HOTEL ÉS ÜDÜLŐHELYEK
+3723,RICA HOTELS,RICA HOTELEK
+3724,INER NOR HOTELS,INER NOR SZÁLLODÁK
+3725,SEAINES PLANATION,TENGEREK TERVEZÉSE
+3726,RIO SUITES,RIO SUITES
+3727,BROADMOOR HOTEL,BROADMOOR HOTEL
+3728,BALLY’S HOTEL AND CASINO,BALLY'S HOTEL ÉS KASZINÓ
+3729,JOHN ASCUAGA’S NUGGET,JOHN ASCUAGA RÖGTÖNZÉSE
+3730,MGM GRAND HOTEL,MGM GRAND HOTEL
+3731,HARRAH’S HOTELS AND CASINOS,HARRAH'S SZÁLLODÁK ÉS KASZINÓK
+3732,OPRYLAND HOTEL,OPRYLAND HOTEL
+3733,BOCA RATON RESORT,BOCA RATON ÜDÜLŐHELY
+3734,HARVEY/BRISTOL HOTELS,HARVEY/BRISTOL SZÁLLODÁK
+3735,Hotels/Motels/Inns/Resorts,Szállodák/szállodák/szállók/üdülőhelyek
+3736,COLORADO BELLE/EDGEWATER RESORT,COLORADO BELLE/EDGEWATER RESORT
+3737,RIVIERA HOTEL AND CASINO,RIVIERA HOTEL ÉS KASZINÓ
+3738,TROPICANA RESORT AND CASINO,TROPICANA ÜDÜLŐHELY ÉS KASZINÓ
+3739,WOODSIDE HOTELS AND RESORTS,WOODSIDE SZÁLLODÁK ÉS ÜDÜLŐHELYEK
+3740,TOWNPLACE SUITES,TOWNPLACE LAKOSZTÁLYOK
+3741,MILLENIUM BROADWAY HOTEL,MILLENIUM BROADWAY HOTEL
+3742,CLUB MED,CLUB MED
+3743,BILTMORE HOTEL AND SUITES,BILTMORE HOTEL ÉS LAKOSZTÁLYOK
+3744,CAREFREE RESORTS,GONDTALAN ÜDÜLŐHELYEK
+3745,ST. REGIS HOTEL,ST. REGIS HOTEL
+3746,THE ELIOT HOTEL,AZ ELIOT HOTEL
+3747,CLUBCORP/CLUB RESORTS,CLUBCORP/KLUB ÜDÜLŐHELYEK
+3748,WELESLEY INNS,WELESLEY INNS
+3749,THE BEVERLY HILLS HOTEL,A BEVERLY HILLS HOTEL
+3750,CROWNE PLAZA HOTELS,CROWNE PLAZA SZÁLLODÁK
+3751,HOMEWOOD SUITES,LAKOSZTÁLYOK
+3752,PEABODY HOTELS,PEABODY HOTELEK
+3753,GREENBRIAH RESORTS,GREENBRIAH ÜDÜLŐHELYEK
+3754,AMELIA ISLAND PLANATION,AMELIA-SZIGETI TELEPÜLÉS
+3755,THE HOMESTEAD,AZ OTTHON
+3756,SOUTH SEAS RESORTS,DÉLTENGERI ÜDÜLŐHELYEK
+3757,Hotels/Motels/Inns/Resorts,Szállodák/szállodák/szállók/üdülőhelyek
+3758,Hotels/Motels/Inns/Resorts,Szállodák/szállodák/szállók/üdülőhelyek
+3759,Hotels/Motels/Inns/Resorts,Szállodák/szállodák/szállók/üdülőhelyek
+3760,Hotels/Motels/Inns/Resorts,Szállodák/szállodák/szállók/üdülőhelyek
+3761,Hotels/Motels/Inns/Resorts,Szállodák/szállodák/szállók/üdülőhelyek
+3762,Hotels/Motels/Inns/Resorts,Szállodák/szállodák/szállók/üdülőhelyek
+3763,Hotels/Motels/Inns/Resorts,Szállodák/szállodák/szállók/üdülőhelyek
+3764,Hotels/Motels/Inns/Resorts,Szállodák/szállodák/szállók/üdülőhelyek
+3765,Hotels/Motels/Inns/Resorts,Szállodák/szállodák/szállók/üdülőhelyek
+3766,Hotels/Motels/Inns/Resorts,Szállodák/szállodák/szállók/üdülőhelyek
+3767,Hotels/Motels/Inns/Resorts,Szállodák/szállodák/szállók/üdülőhelyek
+3768,Hotels/Motels/Inns/Resorts,Szállodák/szállodák/szállók/üdülőhelyek
+3769,Hotels/Motels/Inns/Resorts,Szállodák/szállodák/szállók/üdülőhelyek
+3770,Hotels/Motels/Inns/Resorts,Szállodák/szállodák/szállók/üdülőhelyek
+3771,Hotels/Motels/Inns/Resorts,Szállodák/szállodák/szállók/üdülőhelyek
+3772,Hotels/Motels/Inns/Resorts,Szállodák/szállodák/szállók/üdülőhelyek
+3773,Hotels/Motels/Inns/Resorts,Szállodák/szállodák/szállók/üdülőhelyek
+3774,Hotels/Motels/Inns/Resorts,Szállodák/szállodák/szállók/üdülőhelyek
+3775,Hotels/Motels/Inns/Resorts,Szállodák/szállodák/szállók/üdülőhelyek
+3776,Hotels/Motels/Inns/Resorts,Szállodák/szállodák/szállók/üdülőhelyek
+3777,Hotels/Motels/Inns/Resorts,Szállodák/szállodák/szállók/üdülőhelyek
+3778,Hotels/Motels/Inns/Resorts,Szállodák/szállodák/szállók/üdülőhelyek
+3779,Hotels/Motels/Inns/Resorts,Szállodák/szállodák/szállók/üdülőhelyek
+3780,Hotels/Motels/Inns/Resorts,Szállodák/szállodák/szállók/üdülőhelyek
+3781,Hotels/Motels/Inns/Resorts,Szállodák/szállodák/szállók/üdülőhelyek
+3782,Hotels/Motels/Inns/Resorts,Szállodák/szállodák/szállók/üdülőhelyek
+3783,Hotels/Motels/Inns/Resorts,Szállodák/szállodák/szállók/üdülőhelyek
+3784,Hotels/Motels/Inns/Resorts,Szállodák/szállodák/szállók/üdülőhelyek
+3785,Hotels/Motels/Inns/Resorts,Szállodák/szállodák/szállók/üdülőhelyek
+3786,Hotels/Motels/Inns/Resorts,Szállodák/szállodák/szállók/üdülőhelyek
+3787,Hotels/Motels/Inns/Resorts,Szállodák/szállodák/szállók/üdülőhelyek
+3788,Hotels/Motels/Inns/Resorts,Szállodák/szállodák/szállók/üdülőhelyek
+3789,Hotels/Motels/Inns/Resorts,Szállodák/szállodák/szállók/üdülőhelyek
+3790,Hotels/Motels/Inns/Resorts,Szállodák/szállodák/szállók/üdülőhelyek
+3816,Home2Suites,Home2Suites
+3835,* MASTERS ECONOMY INNS,* MESTEREK GAZDASÁGOS VENDÉGLŐK
+4011,Railroads,Vasutak
+4111,"Local/Suburban Commuter Passenger Transportation – Railroads, Feries, Local Water Transportation.","Helyi/elővárosi ingázó személyszállítás - vasutak, kompok, helyi vízi közlekedés."
+4112,Passenger Railways,Személyszállító vasutak
+4119,Ambulance Services,Mentőszolgálat
+4121,Taxicabs and Limousines,Taxik és limuzinok
+4131,"Bus Lines, Including Charters, Tour Buses","Buszjáratok, beleértve a chartereket, turistabuszokat is"
+4214,"Motor Freight Carriers, Moving and Storage Companies, Trucking – Local/Long Distance, Delivery Services – Local","Teherfuvarozók, Költöztető és raktározási cégek, Teherfuvarozás - helyi/távoli, Szállítási szolgáltatások - helyi"
+4215,"Courier Services – Air or Ground, Freight forwarders","Futárszolgálatok - légi vagy földi, szállítmányozók"
+4225,"Public warehousing, Storage","Közraktározás, raktározás"
+4411,Cruise and Steamship Lines,Körutazási és gőzhajójáratok
+4457,Boat Rentals and Leases,Hajóbérlés és lízing
+4468,"Marinas, Marine Service, and Supplies","Kikötők, hajózási szolgáltatások és felszerelések"
+4511,"Airlines, Air Carriers ( not listed elsewhere)","Légitársaságok, légi fuvarozók ( máshol nem szerepel)"
+4582,"Airports, Airport Terminals, Flying Fields","Repülőterek, repülőtéri terminálok, repülőterek"
+4722,Travel Agencies and Tour Operations,Utazási irodák és utazásszervezők
+4723,Package Tour Operators (For use in Germany only),Utazásszervezők (Csak Németországban használható)
+4784,Toll and Bridge Fees,Útdíj és híddíjak
+4789,"Transportation Services, Not elsewhere classified)","Szállítási szolgáltatások, máshova nem sorolt)"
+4812,Telecommunications Equipment including telephone sales,"Távközlési berendezések, beleértve a telefonértékesítést is"
+4814,"Fax services, Telecommunication Services","Faxszolgáltatások, Távközlési szolgáltatások"
+4815,VisaPhone,VisaTelefon
+4816,Computer Network Services,Számítógépes hálózati szolgáltatások
+4821,Telegraph services,Távirati szolgáltatások
+4829,Money Orders – Wire Transfer,Pénzutalványok - Átutalás
+4899,Cable and other pay television (previously Cable Services),Kábeltelevízió és egyéb fizetős televízió (korábban Kábeltelevíziós szolgáltatások)
+4900,"Electric, Gas, Sanitary and Water Utilities","Villany, gáz, közüzemi és vízellátás"
+5013,Motor vehicle supplies and new parts,Gépjármű-kellékek és új alkatrészek
+5021,Office and Commercial Furniture,Irodai és kereskedelmi bútorok
+5039,"Construction Materials, Not Elsewhere Classified",Máshova nem sorolt építőanyagok
+5044,"Office, Photographic, Photocopy, and Microfilm Equipment","Irodai, fényképészeti, fénymásoló, fénymásoló és mikrofilmes berendezések"
+5045,"Computers, Computer Peripheral Equipment, Software","Számítógépek, számítógép perifériák, szoftverek"
+5046,"Commercial Equipment, Not Elsewhere Classified",Máshova nem sorolt kereskedelmi berendezések
+5047,"Medical, Dental Ophthalmic, Hospital Equipment and Supplies","Orvosi, fogorvosi, szemészeti, kórházi felszerelések és kellékek"
+5051,Metal Service Centers and Offices,Fém szervizközpontok és irodák
+5065,Electrical Parts and Equipment,Elektromos alkatrészek és berendezések
+5072,Hardware Equipment and Supplies,Hardver berendezések és kellékek
+5074,Plumbing and Heating Equipment and Supplies,Vízvezeték- és fűtési berendezések és tartozékok
+5085,"Industrial Supplies, Not Elsewhere Classified",Máshova nem sorolt ipari kellékek
+5094,"Precious Stones and Metals, Watches and Jewelry","Drágakövek és fémek, órák és ékszerek"
+5099,"Durable Goods, Not Elsewhere Classified",Máshova nem sorolt tartós fogyasztási cikkek
+5111,"Stationery, Office Supplies, Printing, and Writing Paper","Irodaszerek, irodaszerek, nyomtatás és írópapír"
+5122,"Drugs, Drug Proprietors, and Druggist’s Sundries","Drogok, drogkereskedők és drogériák"
+5131,"Piece Goods, Notions, and Other Dry Goods","Darabáru, méteráru és egyéb szárazáru"
+5137,Men’s Women’s and Children’s Uniforms and Commercial Clothing,"Férfi, női és gyermek egyenruhák és kereskedelmi ruházat"
+5139,Commercial Footwear,Kereskedelmi lábbeli
+5169,"Chemicals and Allied Products, Not Elsewhere Classified",Máshova nem sorolt vegyi anyagok és kapcsolódó termékek
+5172,Petroleum and Petroleum Products,Kőolaj és kőolajtermékek
+5192,"Books, Periodicals, and Newspapers","Könyvek, folyóiratok és újságok"
+5193,"Florists’ Supplies, Nursery Stock and Flowers","Virágüzemi kellékek, faiskolai áruk és virágok"
+5198,"Paints, Varnishes, and Supplies","Festékek, lakkok és kellékek"
+5199,"Non-durable Goods, Not Elsewhere Classified",Máshová nem sorolt nem tartós fogyasztási cikkek
+5200,Home Supply Warehouse Stores,Otthoni ellátási raktáráruházak
+5211,Lumber and Building Materials Stores,Fűrészáru és építőanyag boltok
+5231,"Glass, Paint, and Wallpaper Stores","Üveg, festék és tapéta üzletek"
+5251,Hardware Stores,Hardver boltok
+5261,Nurseries – Lawn and Garden Supply Store,Faiskolák - Gyep- és kertészeti áruház
+5271,Mobile Home Dealers,Mobilház kereskedők
+5300,Wholesale Clubs,Nagykereskedelmi klubok
+5309,Duty Free Store,Duty Free Store
+5310,Discount Stores,Kedvezményes üzletek
+5311,Department Stores,Áruházak
+5331,Variety Stores,Variety üzletek
+5399,Misc. General Merchandise,Egyéb. Általános árucikkek
+5411,"Grocery Stores, Supermarkets","Élelmiszerüzletek, szupermarketek"
+5422,Meat Provisioners – Freezer and Locker,Húsellátók - Fagyasztó és tárolószekrény
+5441,"Candy, Nut, and Confectionery Stores","Édesség-, dió- és cukrászboltok"
+5451,Dairy Products Stores,Tejtermék boltok
+5462,Bakeries,Pékségek
+5499,Misc. Food Stores – Convenience Stores and Specialty Markets,Egyéb. Élelmiszerüzletek - Kényelmi boltok és speciális piacok
+5511,"Car and Truck Dealers (New and Used) Sales, Service, Repairs, Parts, and Leasing","Személygépkocsi és tehergépkocsi kereskedők (új és használt) értékesítés, szerviz, javítás, alkatrészek és lízing"
+5521,Automobile and Truck Dealers (Used Only),Személygépkocsi- és tehergépkocsi-kereskedők (csak használt)
+5531,Automobile Supply Stores,Autóellátó üzletek
+5532,Automotive Tire Stores,Autógumiabroncs üzletek
+5533,"Automotive Parts, Accessories Stores","Autóalkatrészek, tartozékok üzletek"
+5541,Service Stations ( with or without ancillary services),Szolgáltatóállomások (kiegészítő szolgáltatásokkal vagy anélkül)
+5542,Automated Fuel Dispensers,Automatizált üzemanyag-adagolók
+5551,Boat Dealers,Hajó kereskedők
+5561,"Recreational and Utility Trailers, Camp Dealers","Szabadidős és hasznos utánfutók, kemping kereskedők"
+5571,Motorcycle Dealers,Motorkerékpár kereskedők
+5592,Motor Home Dealers,Lakóautó kereskedők
+5598,Snowmobile Dealers,Motoros szán kereskedők
+5599,Miscellaneous Auto Dealers ,Egyéb autókereskedők
+5611,Men’s and Boy’s Clothing and Accessories Stores,Férfi és fiú ruházat és kiegészítők üzletei
+5621,Women’s Ready-to-Wear Stores,Női készruha-üzletek
+5631,Women’s Accessory and Specialty Shops,Női kiegészítők és speciális üzletek
+5641,Children’s and Infant’s Wear Stores,Gyermek- és csecsemőruházati üzletek
+5651,Family Clothing Stores,Családi ruházati üzletek
+5655,"Sports Apparel, Riding Apparel Stores","Sportruházat, Lovas ruházat üzletek"
+5661,Shoe Stores,Cipő üzletek
+5681,Furriers and Fur Shops,Szőrmekereskedések és szőrmekereskedések
+5691,Men’s and Women’s Clothing Stores,Férfi és női ruházati üzletek
+5697,"Tailors, Seamstress, Mending, and Alterations","Szabók, varrónők, varrodák és szabóműhelyek"
+5698,Wig and Toupee Stores,Paróka és paróka üzletek
+5699,Miscellaneous Apparel and Accessory Shops,Egyéb ruházati és kiegészítő üzletek
+5712,"Furniture, Home Furnishings, and Equipment Stores, ExceptAppliances","Bútor, lakberendezési cikkek és berendezések boltjai, kivéve a készülékeket"
+5713,Floor Covering Stores,Padlóburkoló üzletek
+5714,"Drapery, Window Covering and Upholstery Stores","Drapéria, ablakburkolat és kárpitüzletek"
+5718,"Fireplace, Fireplace Screens, and Accessories Stores","Kandalló, kandallóképernyők és kiegészítők üzletei"
+5719,Miscellaneous Home Furnishing Specialty Stores,Egyéb lakberendezési szaküzletek
+5722,Household Appliance Stores,Háztartási készülékek üzletei
+5732,Electronic Sales,Elektronikus értékesítés
+5733,"Music Stores, Musical Instruments, Piano Sheet Music","Zeneáruházak, Hangszerek, Zongora kotta"
+5734,Computer Software Stores,Számítógépes szoftver üzletek
+5735,Record Shops,Lemezboltok
+5811,Caterers,Catering
+5812,Eating places and Restaurants,Éttermek és éttermek
+5813,"Drinking Places (Alcoholic Beverages), Bars, Taverns, Cocktail lounges, Nightclubs and Discotheques","Italozóhelyek (alkoholos italok), Bárok, Kocsmák, Koktélbárok, Nightclubok és diszkók"
+5814,Fast Food Restaurants,Fast Food éttermek
+5815,"Digital Goods: Media, Books, Movies, Music","Digitális áruk: Média, könyvek, filmek, zene"
+5816,Digital Goods: Games,Digitális áruk: Játékok
+5817,Digital Goods: Applications (Excludes Games),Digitális áruk: Alkalmazások (kivéve a játékokat)
+5818,Digital Goods: Large Digital Goods Merchant,Digitális áruk: Nagy digitális áruk kereskedője
+5832,"Antique Shops – Sales, Repairs, and Restoration Services","Antik boltok - értékesítés, javítás és restaurálás"
+5912,Drug Stores and Pharmacies,Gyógyszertárak és gyógyszertárak
+5921,"Package Stores – Beer, Wine, and Liquor","Kiszereléses boltok - sör, bor és szeszes italok"
+5931,Used Merchandise and Secondhand Stores,Használtáru és használtcikk boltok
+5932,Antique Shops,Antik boltok
+5933,Pawn Shops and Salvage Yards,Zálogházak és roncstelepek
+5935,Wrecking and Salvage Yards,Bontási és bontási telephelyek
+5937,Antique Reproductions,Antik reprodukciók
+5940,Bicycle Shops – Sales and Service,Kerékpárboltok - értékesítés és szerviz
+5941,Sporting Goods Stores,Sportáru üzletek
+5942,Book Stores,Könyvesboltok
+5943,"Stationery Stores, Office and School Supply Stores","Papír- és írószerboltok, irodaszer- és iskolaszerüzletek"
+5944,"Watch, Clock, Jewelry, and Silverware Stores","Órák, órák, ékszerek és ezüstáruk üzletei"
+5945,"Hobby, Toy, and Game Shops","Hobbi-, játék- és játékboltok"
+5946,Camera and Photographic Supply Stores,Fényképezőgép és fényképészeti kellékboltok
+5947,"Card Shops, Gift, Novelty, and Souvenir Shops","Kártyaboltok, ajándék, újdonság és szuvenír boltok"
+5948,Leather Goods Stores,Bőráru üzletek
+5949,"Sewing, Needle, Fabric, and Price Goods Stores","Varró-, tű-, szövet- és áruboltok"
+5950,Glassware/Crystal Stores,Üvegáru/kristály boltok
+5960,Direct Marketing- Insurance Service,Közvetlen marketing- biztosítási szolgáltatás
+5961,"Mail Order Houses Including Catalog Order Stores, Book/Record Clubs (No longer permitted for U.S. original presentments)","Postai csomagküldő üzletek, beleértve a katalógusrendeléssel foglalkozó üzleteket, könyv- és lemezklubokat (már nem engedélyezett az eredeti amerikai bemutatók esetében)."
+5962,Direct Marketing – Travel Related Arrangements Services,Közvetlen marketing - Utazással kapcsolatos szervezési szolgáltatások
+5963,Door-to-Door Sales,Házhoz menő értékesítés
+5964,Direct Marketing – Catalog Merchant,Közvetlen marketing - katalógus kereskedő
+5965,Direct Marketing – Catalog and Catalog and Retail Merchant,Közvetlen marketing - Katalógus és katalógus és kiskereskedelmi kereskedő
+5966,Direct Marketing- Outbound Telemarketing Merchant,Közvetlen marketing - kimenő telemarketing kereskedő
+5967,Direct Marketing – Inbound Teleservices Merchant,Közvetlen marketing - bejövő telefonos szolgáltatások Kereskedő
+5968,Direct Marketing – Continuity/Subscription Merchant,Közvetlen marketing - Folyamatosság/előfizetés Kereskedő
+5969,Direct Marketing – Not Elsewhere Classified,Közvetlen marketing - máshová nem sorolt
+5970,Artist’s Supply and Craft Shops,Művészellátó és kézműves üzletek
+5971,Art Dealers and Galleries,Műkereskedők és galériák
+5972,Stamp and Coin Stores – Philatelic and Numismatic Supplies,Bélyeg- és érmeboltok - Filatéliai és numizmatikai kellékek
+5973,Religious Goods Stores,Vallási áruházak
+5975,"Hearing Aids – Sales, Service, and Supply Stores","Hallókészülékek - értékesítés, szerviz és ellátó üzletek"
+5976,Orthopedic Goods Prosthetic Devices,Ortopédiai termékek Protetikai eszközök
+5977,Cosmetic Stores,Kozmetikai üzletek
+5978,"Typewriter Stores – Sales, Rental, Service","Írógépboltok - értékesítés, kölcsönzés, szervizelés"
+5983,"Fuel – Fuel Oil, Wood, Coal, Liquefied Petroleum","Tüzelőanyag - fűtőolaj, fa, szén, cseppfolyósított kőolaj"
+5992,Florists,Virágüzlet
+5993,Cigar Stores and Stands,Szivarboltok és -standok
+5994,News Dealers and Newsstands,Hírkereskedők és újságárusok
+5995,"Pet Shops, Pet Foods, and Supplies Stores","Állatkereskedések, állateledel- és állatkellékboltok"
+5996,"Swimming Pools – Sales, Service, and Supplies","Úszómedencék - értékesítés, szerviz, és kellékek"
+5997,Electric Razor Stores – Sales and Service,Elektromos borotvák üzletei - értékesítés és szerviz
+5998,Tent and Awning Shops,Sátor és napellenző üzletek
+5999,Miscellaneous and Specialty Retail Stores,Különféle és speciális kiskereskedelmi üzletek
+6010,Financial Institutions – Manual Cash Disbursements,Pénzintézetek - Kézi készpénzkifizetések
+6011,Financial Institutions – Manual Cash Disbursements,Pénzintézetek - Kézi készpénzkifizetések
+6012,Financial Institutions – Merchandise and Services,Pénzügyi intézmények - áruk és szolgáltatások
+6051,"Non-Financial Institutions – Foreign Currency, Money Orders (not wire transfer) and Travelers Cheques","Nem pénzügyi intézmények - Deviza, pénzutalványok (nem átutalások) és utazási csekkek"
+6211,Security Brokers/Dealers,Értékpapír-brókerek/forgalmazók
+6300,"Insurance Sales, Underwriting, and Premiums","Biztosítási értékesítés, kockázatvállalás és biztosítási díjak"
+6381,"Insurance Premiums, (no longer valid for first presentment work)","Biztosítási díjak, (már nem érvényes az első bemutató munkára)"
+6399,"Insurance, Not Elsewhere Classified ( no longer valid forfirst presentment work)",Máshová nem sorolt biztosítás ( már nem érvényes az első bemutató munkára)
+6513,Real Estate Agents and Managers - Rentals,Ingatlanközvetítők és -kezelők - Bérbeadás
+7011,"Lodging – Hotels, Motels, Resorts, Central Reservation Services (not elsewhere classified)","Szálláshely - Szállodák, motelek, üdülőhelyek, központi foglalási szolgáltatások (máshova nem sorolható)"
+7012,Timeshares,Időmegosztás
+7032,Sporting and Recreational Camps,Sport- és rekreációs táborok
+7033,Trailer Parks and Camp Grounds,Lakókocsiparkok és kempingek
+7210,"Laundry, Cleaning, and Garment Services","Mosoda, tisztítás és ruházati szolgáltatások"
+7211,Laundry – Family and Commercial,Mosoda - családi és kereskedelmi mosoda
+7216,Dry Cleaners,Vegytisztítók
+7217,Carpet and Upholstery Cleaning,Szőnyeg és kárpittisztítás
+7221,Photographic Studios,Fényképészeti stúdiók
+7230,Barber and Beauty Shops,Borbély és szépségszalonok
+7251,"Shop Repair Shops and Shoe Shine Parlors, and Hat Cleaning Shops","Üzletjavító műhelyek és cipőpucoló szalonok, valamint kalapmosó üzletek"
+7261,Funeral Service and Crematories,Temetkezési szolgáltatás és krematóriumok
+7273,Dating and Escort Services,Randizás és Escort szolgáltatások
+7276,Tax Preparation Service,Adóelőkészítő szolgáltatás
+7277,"Counseling Service – Debt, Marriage, Personal","Tanácsadás - Adósság, házasság, személyes tanácsadás"
+7278,"Buying/Shopping Services, Clubs","Vásárlás/bevásárlási szolgáltatások, klubok"
+7296,"Clothing Rental – Costumes, Formal Wear, Uniforms","Ruhabérlés - jelmezek, formális ruházat, egyenruhák, egyenruhák"
+7297,Massage Parlors,Masszázs szalonok
+7298,Health and Beauty Shops,Egészségügyi és szépségápolási üzletek
+7299,Miscellaneous Personal Services ( not elsewhere classifies),Különféle személyes szolgáltatások ( máshova nem sorolható)
+7311,Advertising Services,Reklámszolgáltatások
+7321,Consumer Credit Reporting Agencies,Fogyasztói hitelinformációs ügynökségek
+7332,Blueprinting and Photocopying Services,Tervezési és fénymásolási szolgáltatások
+7333,"Commercial Photography, Art and Graphics","Kereskedelmi fotózás, művészet és grafika"
+7338,"Quick Copy, Reproduction and Blueprinting Services","Gyorsmásolás, sokszorosítás és tervrajzolás szolgáltatások"
+7339,Stenographic and Secretarial Support Services,Stenográfiai és titkársági támogató szolgáltatások
+7342,Exterminating and Disinfecting Services,Féregtelenítő és fertőtlenítő szolgáltatások
+7349,"Cleaning and Maintenance, Janitorial Services","Takarítás és karbantartás, gondnoki szolgáltatások"
+7361,"Employment Agencies, Temporary Help Services","Munkaerő-közvetítő ügynökségek, munkaerő-kölcsönzés"
+7372,"Computer Programming, Integrated Systems Design and Data Processing Services","Számítógépes programozás, integrált rendszerek tervezése és adatfeldolgozási szolgáltatások"
+7375,Information Retrieval Services,Információ-visszakeresési szolgáltatások
+7379,"Computer Maintenance and Repair Services, Not Elsewhere Classified",Máshova nem sorolt számítógép-karbantartás és -javítás
+7392,"Management, Consulting, and Public Relations Services","Menedzsment, tanácsadás és PR szolgáltatások"
+7393,Protective and Security Services – Including Armored Carsand Guard Dogs,Védelmi és biztonsági szolgáltatások - beleértve a páncélozott autókat és az őrkutyákat is
+7394,"Equipment Rental and Leasing Services, Tool Rental, Furniture Rental, and Appliance Rental","Berendezésbérlési és lízingszolgáltatások, szerszámbérlés, bútorbérlés és készülékbérlés"
+7395,"Photofinishing Laboratories, Photo Developing","Fényképesítő laboratóriumok, fényképek fejlesztése"
+7399,"Business Services, Not Elsewhere Classified","Üzleti szolgáltatások, máshova nem sorolt szolgáltatások"
+7511,Truck Stop,Teherautó megálló
+7512,Car Rental Companies ( Not Listed Below),Autókölcsönző cégek ( az alábbiakban nem szerepelnek)
+7513,Truck and Utility Trailer Rentals,Teherautó és pótkocsi bérlés
+7519,Motor Home and Recreational Vehicle Rentals,Lakóautó és szabadidőjármű bérlés
+7523,Automobile Parking Lots and Garages,Parkolók és garázsok
+7531,Automotive Body Repair Shops,Autóipari karosszériajavító üzletek
+7534,Tire Re-treading and Repair Shops,Gumiabroncs-újrafutózó és -javító műhelyek
+7535,Paint Shops – Automotive,Festőműhelyek - Autóipar
+7538,Automotive Service Shops,Autóipari szervizek
+7542,Car Washes,Autómosók
+7549,Towing Services,Vontatási szolgáltatások
+7622,Radio Repair Shops,Rádiójavító üzletek
+7623,Air Conditioning and Refrigeration Repair Shops,Légkondicionáló és hűtőgép-javító üzletek
+7629,Electrical And Small Appliance Repair Shops,Elektromos és kisgépjavító üzletek
+7631,"Watch, Clock, and Jewelry Repair","Óra, óra és ékszer javítás"
+7641,"Furniture, Furniture Repair, and Furniture Refinishing","Bútor, bútorjavítás és bútorfelújítás"
+7692,Welding Repair,Hegesztés javítása
+7699,Repair Shops and Related Services –Miscellaneous,Javítóműhelyek és kapcsolódó szolgáltatások -Egyébek
+7800,Government-Owned Lotteries,Állami tulajdonú lottójátékok
+7801,Government-Licensed On-Line Casinos (On-Line Gambling),Kormányzati engedéllyel rendelkező online kaszinók (online szerencsejáték)
+7802,Government-Licensed Horse/Dog Racing,Kormányzati engedéllyel rendelkező ló/kutya versenyek
+7829,Motion Pictures and Video Tape Production and Distribution,Mozgóképek és videoszalagok gyártása és forgalmazása
+7832,Motion Picture Theaters,Filmszínházak
+7841,Video Tape Rental Stores,Videokazetta kölcsönző üzletek
+7911,"Dance Halls, Studios and Schools","Tánctermek, stúdiók és iskolák"
+7922,"Theatrical Producers (Except Motion Pictures), Ticket Agencies","Színházi producerek (kivéve mozgóképek), jegyirodák"
+7929,"Bands, Orchestras, and Miscellaneous Entertainers (Not Elsewhere Classified)","Zenekarok, zenekarok és egyéb előadóművészek (máshova nem sorolt)"
+7932,Billiard and Pool Establishments,Biliárd és biliárd létesítmények
+7933,Bowling Alleys,Bowlingpályák
+7941,"Commercial Sports, Athletic Fields, Professional Sport Clubs, and Sport Promoters","Kereskedelmi sportok, atlétikai pályák, profi sportklubok és sportszervezők"
+7991,Tourist Attractions and Exhibits,Turisztikai látványosságok és kiállítások
+7992,Golf Courses – Public,Golfpályák - nyilvános
+7993,Video Amusement Game Supplies,Videó szórakoztató játék kellékek
+7994,Video Game Arcades/Establishments,Videojáték-árkádok/létesítmények
+7995,"Betting (including Lottery Tickets, Casino Gaming Chips, Off-track Betting and Wagers at Race Tracks)","Fogadás (beleértve a lottószelvényeket, a kaszinójáték-zsetonokat, a pályán kívüli fogadásokat és a versenypályákon tett fogadásokat)"
+7996,"Amusement Parks, Carnivals, Circuses, Fortune Tellers","Vidámparkok, karneválok, cirkuszok, szerencsemondók"
+7997,"Membership Clubs (Sports, Recreation, Athletic), Country Clubs, and Private Golf Courses","Tagsági klubok (sport, rekreáció, atlétika), country klubok és magán golfpályák"
+7998,"Aquariums, Sea-aquariums, Dolphinariums","Akváriumok, tengeri akváriumok, delfináriumok"
+7999,Recreation Services (Not Elsewhere Classified),Szabadidős szolgáltatások (máshova nem sorolt)
+8011,Doctors and Physicians (Not Elsewhere Classified),Orvosok és orvosok (máshova nem sorolt)
+8021,Dentists and Orthodontists,Fogorvosok és fogszabályozók
+8031,Osteopaths,Csontkovácsok
+8041,Chiropractors,Kiropraktorok
+8042,Optometrists and Ophthalmologists,Optometristák és szemészek
+8043,"Opticians, Opticians Goods and Eyeglasses","Optikusok, optikai termékek és szemüvegek"
+8044,"Opticians, Optical Goods, and Eyeglasses (no longer validfor first presentments)","Optikusok, optikai termékek és szemüvegek (már nem érvényes az első bemutatásra)"
+8049,Podiatrists and Chiropodists,Podiáterek és lábápoló orvosok
+8050,Nursing and Personal Care Facilities,Ápolási és személyi gondozási létesítmények
+8062,Hospitals,Kórházak
+8071,Medical and Dental Laboratories,Orvosi és fogászati laboratóriumok
+8099,Medical Services and Health Practitioners (Not Elsewhere Classified),Orvosi szolgáltatások és egészségügyi szakemberek (máshova nem sorolt)
+8111,Legal Services and Attorneys,Jogi szolgáltatások és ügyvédek
+8211,Elementary and Secondary Schools,Általános és középiskolák
+8220,"Colleges, Junior Colleges, Universities, and ProfessionalSchools","Főiskolák, főiskolák, egyetemek és szakiskolák"
+8241,Correspondence Schools,Levelező iskolák
+8244,Business and Secretarial Schools,Üzleti és titkársági iskolák
+8249,Vocational Schools and Trade Schools,Szakképző iskolák és kereskedelmi iskolák
+8299,Schools and Educational Services ( Not Elsewhere Classified),Iskolák és oktatási szolgáltatások (máshova nem sorolt)
+8351,Child Care Services,Gyermekgondozási szolgáltatások
+8398,Charitable and Social Service Organizations,Jótékonysági és szociális szervezetek
+8641,"Civic, Fraternal, and Social Associations","Polgári, testvéri és társadalmi egyesületek"
+8651,Political Organizations,Politikai szervezetek
+8661,Religious Organizations,Vallási szervezetek
+8675,Automobile Associations,Autóipari szövetségek
+8699,Membership Organizations ( Not Elsewhere Classified),Tagszervezetek (máshová nem sorolt szervezetek)
+8734,Testing Laboratories ( non-medical),Vizsgáló laboratóriumok (nem orvosi)
+8911,Architectural – Engineering and Surveying Services,Építészeti - mérnöki és földmérési szolgáltatások
+8931,"Accounting, Auditing, and Bookkeeping Services","Számviteli, könyvvizsgálati és könyvelési szolgáltatások"
+8999,Professional Services ( Not Elsewhere Defined),Szakmai szolgáltatások (máshol nem meghatározottak)
+9211,"Court Costs, including Alimony and Child Support","Bírósági költségek, beleértve a tartásdíjat és a gyermektartást is"
+9222,Fines,Bírságok
+9223,Bail and Bond Payments,Óvadék és óvadékfizetés
+9311,Tax Payments,Adófizetések
+9399,Government Services ( Not Elsewhere Classified),Kormányzati szolgáltatások (máshova nem sorolt)
+9402,Postal Services – Government Only,Postai szolgáltatások - Csak kormányok
+9405,Intra – Government Transactions,Kormányzaton belüli tranzakciók
+9700,Automated Referral Service ( For Visa Only),Automatizált ajánló szolgáltatás ( Csak Visa esetén)
+9701,Visa Credential Service ( For Visa Only),Vízumigazolvány-szolgáltatás ( Csak vízumhoz)
+9702,GCAS Emergency Services ( For Visa Only),GCAS sürgősségi szolgáltatások ( Csak vízum esetén)
+9950,Intra – Company Purchases ( For Visa Only),Vállalaton belüli vásárlások ( Csak Visa esetén)
