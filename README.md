@@ -21,3 +21,8 @@ Fields
 * Derived MCC - mcc
 * edited_description - manually edited, modern text
 * hu_edited_description - hungarian translation of the "edited_description"
+
+What is a MCC code?
+=====
+A Merchant Category Codes (MCC) is a four-digit number used for retail financial services to classify a business by the types of goods or services it provides. Codes are specified by the ISO 18245 standard. 
+
